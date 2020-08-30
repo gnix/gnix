@@ -5,7 +5,7 @@
 
 ## I'm an Entrepreneur, Security Researcher, and Software Developer!
 
-- 🔭 I’m currently working on the [Advanced Software Exploitation course v3.0](http://psec-courses.com)!
+- 🔭 I’m currently working on the [Advanced Software Exploitation](http://psec-courses.com) course v3.0!
 - 🌱 I’m currently learning more about Linux Internals
 - 💬 Ask me about Reverse Engineering and Exploit Development.
 - 📫 How to reach me: [@GianniGnesa](https://twitter.com/GianniGnesa)
