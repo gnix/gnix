@@ -3,12 +3,10 @@
 [![Website](https://img.shields.io/website?label=ptrace-security.com&style=for-the-badge&url=https%3A%2F%2Fptrace-security.com)](https://www.ptrace-security.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/GianniGnesa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgnix&screen_name=GianniGnesa)
 
-## I'm an Entrepreneur, Pentester, Exploit Developer and Python Enthusiast!
+## I'm an Entrepreneur, Security Researcher, and Software Developer!
 
 - 🔭 I’m currently working on the [Advanced Software Exploitation course v3.0](http://psec-courses.com)!
 - 🌱 I’m currently learning more about Linux Internals
-- 👯 I’m looking to collaborate on interesting projects
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Reverse Engineering and Exploit Development.
 - 📫 How to reach me: [@GianniGnesa](https://twitter.com/GianniGnesa)
 - 🥅 2020 Goals: Run a half-marathon
@@ -25,15 +23,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-
----
-
-### 📕 Latest Blog Posts
 
 [website]: https://ptrace-security.com
 [twitter]: https://twitter.com/ptracesecurity
